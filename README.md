@@ -1,4 +1,4 @@
-# **Sign-Form-with-Progress-Bar**
+# **Sign Up Form with Progress Bar**
 
 * A **Multi-Step Form** is a long-form that has broken into multiple pieces. This type of form asked you to enter your details step by step before submitting your form. Some Multi-Step Form has Step Progress Bar on the top of Form or on some website it’s placed on the bottom. Generally, This progress bar indicates or informs a user how many steps they have completed and how many steps are remaining.
 
